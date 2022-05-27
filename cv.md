@@ -6,7 +6,6 @@
 + **E-mail:** minkovvs@gmail.com
 + **LinkedIn** [Viktor Minkov](https://www.linkedin.com/in/viktor-minkov-1214b6236/)
 + **GitHub** [Viktor Minkov](https://github.com/ViktorMinkov)
-+ **Discord** Viktor Minkov(@ViktorMinkov)
 ---
 ## About Me
 
