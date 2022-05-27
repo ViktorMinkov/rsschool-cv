@@ -1,11 +1,13 @@
 # Viktor Minkov
 
+
 ## Contacts
 + **Location:** Minsk,Belarus
 + **Phone:** +375 44 700-51-09
 + **E-mail:** minkovvs@gmail.com
-+ **LinkedIn** [Viktor Minkov](https://www.linkedin.com/in/viktor-minkov-1214b6236/)
-+ **GitHub** [Viktor Minkov](https://github.com/ViktorMinkov)
++ **LinkedIn:** [Viktor Minkov](https://www.linkedin.com/in/viktor-minkov-1214b6236/)
++ **GitHub:** [Viktor Minkov](https://github.com/ViktorMinkov)
+
 ---
 ## About Me
 
