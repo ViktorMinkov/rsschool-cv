@@ -50,22 +50,138 @@ body {
     font-size: 28px;
     transition: 0.3s;
   }
+/*Main CSS*/
+.main {
+  margin-bottom: auto;
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.section {
+  width: calc(50% - 20px);
+  padding: 10px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #485051;
+}
+.section-title {
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 20px 10px 20px;
+  border-bottom: 15px solid #485051;
+}
+.section-profile-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+.main-title {
+  position: relative;
+  margin-bottom: 20px;
+  padding: 0;
+  color: black;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 10px;
+  line-height: 50px;
+  word-spacing: 3px;
+}
+.section-subtitle {
+  margin-top: 10px;
+  color: tomato;
+  line-height: 50px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.section-profile-logo {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 3px 4px black;
+}
 
+.section-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.section-item {
+  position: relative;
+  padding: 0;
+  padding-left: 30px;  
+  margin: 0;
+  margin-bottom: 5px;
+  font-weight: 400;
+  letter-spacing: 2px;
+ }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  .section-list img {
-    width: 25px;
-    height: 25px;
+ .projects-item-cv::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 2px;
+  width: 14px;
+  height: 14px; 
+  background-size: 14px 14px;
+  background-image: url("/assets/svg/list-black-dot.svg")
+ }
+ .courses-item::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 2px;
+  width: 14px;
+  height: 14px; 
+  background-size: 14px 14px;
+  background-image: url("/assets/svg/list-black-dot.svg")
+ }
+ .section-item a {
+  text-decoration: none;
+  transition: color 0.5s;  
+  color:#0e0d0dd2;
   }
+
+.section-item a:hover {  
+    color: tomato; 
+ 
+ }
+ .section-courses, .section-languages{
+  border-bottom: none;
+ }
+
+ .section-list img {
+  width: 25px;
+  height: 25px;
+}
+.pre {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 50px;
+  background-color: lightgray;
+}
+.pre:hover {
+  background-color: gray;
+  color: #ffffff;
+  transition: 0.3s;
+}
+ .span {
+  font-weight: 400;
+  transition: color 0.5s;
+  }
+  .span:hover {
+    color: tomato;
+  }
+
