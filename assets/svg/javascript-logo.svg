@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 1100 1250" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="1100" height="1250" style="fill:rgb(0%,0%,0%);fill-opacity:0.984314;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="1100" height="1250"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:0.921569;" d="M 186.148438 890.714844 L 185.71875 759.070312 C 185.71875 759.070312 321.285156 797.234375 398.078125 816.960938 L 399.367188 241.488281 L 508.761719 241.488281 L 508.761719 977.765625 Z M 186.148438 890.714844 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(83.137255%,72.156863%,18.823529%);fill-opacity:1;" d="M 102.058594 1123.5625 L -0.0429688 0.0625 L 1099.941406 0.492188 L 998.695312 1122.707031 L 549.089844 1249.636719 Z M 915.894531 1062.242188 L 1001.269531 99.980469 L 550.804688 99.980469 L 554.238281 1161.300781 Z M 508.761719 241.058594 L 399.367188 241.058594 L 398.078125 816.960938 L 185.71875 759.070312 L 186.148438 890.714844 L 508.761719 977.765625 Z M 508.761719 241.058594 "/>
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,84.705882%,23.529412%);fill-opacity:1;" d="M 550.804688 99.550781 L 1001.269531 99.550781 L 915.894531 1061.8125 L 550.804688 1160.871094 Z M 892.730469 900.578125 L 922.332031 540.800781 L 703.535156 565.246094 L 703.535156 373.132812 L 936.917969 372.277344 L 946.355469 241.058594 L 594.136719 242.773438 L 598.855469 720.476562 L 811.644531 684.027344 L 808.640625 790.375 L 594.136719 847.40625 L 596.28125 977.765625 Z M 892.730469 900.578125 "/>
+</g>
+</svg>
